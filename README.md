@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethas Dileep</h1>
 <h3 align="center">A Cyber Security Enthusiastic from India</h3>
-<img align="right" alt="Coding/Hacking" width="400" src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">
+<img align="right" alt="Coding/Hacking" width="400" src="https://media1.tenor.com/m/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawn-fighter&label=Profile%20views&color=0e75b6&style=flat" alt="dawn-fighter" /> </p>
 
