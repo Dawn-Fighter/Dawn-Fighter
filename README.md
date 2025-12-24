@@ -64,13 +64,21 @@ I am an entry-level **Penetration Tester** and **Cybersecurity Developer** with 
 
 ### 📊 <span style="color:#00ff00">Network Traffic (Stats)</span>
 
-### 📊 <span style="color:#00ff00">Network Traffic (Stats)</span>
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dawn-Fighter&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=Dawn-Fighter&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
+  <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+---
 
 ### 🎓 <span style="color:#00ff00">Credentials</span>
 
