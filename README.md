@@ -1,99 +1,91 @@
-# Hi, I’m Chethas Dileep 👋
+<div align="center">
 
-Penetration Tester • Cybersecurity Enthusiast • Tool Builder  
-Bengaluru, India
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Chethas%20Dileep&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=35" alt="Header" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33CCFF&background=00000000&center=true&vCenter=true&width=435&lines=Penetration+Tester;Cybersecurity+Enthusiast;Tool+Builder;Hardware+Hacker+(ESP32+%2F+RFID)" alt="Typing SVG" />
+  </a>
 
-- Email: chethasdileep@icloud.com 
-- LinkedIn: https://www.linkedin.com/in/chethas-dileep-530722211 
-- Portfolio : www.edneam.site 
+  <p>
+    <b>Bengaluru, India</b> 🇮🇳
+  </p>
 
----
-
-## 🧭 About Me
-
-Entry-level penetration tester with hands-on projects in web security, wireless testing, and security tooling. Certified via Google Cybersecurity and a Penetration Tester program, with a strong foundation in networking, vulnerability analysis, and secure tooling. Passionate about building practical security utilities and exploring attack surfaces ethically in controlled environments.
-
-- Focus: Web App Security, Wireless Testing (Wi‑Fi/BLE/RFID), Security Automation  
-- Strengths: Clear communication, analytical mindset, rapid learning  
-- Goal: Contribute to a dynamic security team and real-world defenses
-
----
-
-## 🛠️ Skills
-
-- Web Security: Recon, DNS/subdomain discovery, WAF detection, SSL/TLS analysis, input validation testing  
-- Wireless & Embedded: Wi‑Fi monitoring, BLE spamming research, RFID/NFC access control  
-- Security Tooling: CLI design, logging, error handling, modular architecture  
-- Scripting & Automation: Python (pynput, requests, cryptography), Bash  
-- OS & Networking: Windows fundamentals, OS/network fingerprinting, API discovery  
-- Crypto & Files: SHA256 hashing, encryption/decryption workflows, file metadata analysis
+  <p>
+    <a href="mailto:chethasdileep@icloud.com">
+      <img src="https://img.shields.io/badge/Email-chethasdileep%40icloud.com-black?style=flat-square&logo=icloud&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/chethas-dileep-530722211">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="http://www.edneam.site">
+      <img src="https://img.shields.io/badge/Portfolio-www.edneam.site-ff0055?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🎓 Education
+### 🧭 <span style="color:#00ff00">Mission Protocol</span>
 
-- BCA, Yenepoya University, Bengaluru (2023–2026, in progress)  
-- Higher Secondary (Computer Science Major), Kerala — 91%
+> *"I explore attack surfaces ethically to build stronger real-world defenses."*
 
----
+I am an entry-level **Penetration Tester** with a passion for breaking and building. My work bridges the gap between software security and hardware hacking. I specialize in web application security and wireless protocols (Wi-Fi/BLE/RFID), creating my own tools to automate the process.
 
-## 🧩 Tech Stack
-
-- Languages: Python, Bash  
-- Platforms: Windows, Linux, ESP32  
-- Security Domains: Web security, Wi‑Fi/BLE/RFID research  
-- Tooling: Git, OpenSSL, Docker (familiar), Gmail SMTP
+* **🔭 Working On:** Enhancing `WPT` for deep API analysis & `Enigma` for ESP32 control.
+* **🧩 Interest:** Web Sec, Wireless (BLE/RFID), Tool Development.
+* **⚡ Approach:** Ethical-first, CLI-first, Automation-ready.
 
 ---
 
-## 📌 What I’m Working On
+### 🛠️ <span style="color:#00ff00">Arsenal & Tech Stack</span>
 
-- Enhancing WPT for deeper API and JS analysis  
-- Expanding Enigma’s real-time control and protocol coverage  
-- Improving logging, error handling, and modularity across tools
+<div align="center">
 
----
+| **Languages** | **Security & Networking** | **Hardware & Platforms** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-blue?style=for-the-badge&logo=wi-fi&logoColor=white) <br> ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
+| **Tooling** | **Crypto** | **Domains** |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![SHA256](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=files&logoColor=white) | `Web` `BLE` `RFID` `NFC` |
 
-## 🧪 How I Work
-
-- Ethical-first approach; test only in lab environments  
-- Reproducible, documented workflows  
-- Modular, CLI-first, automation-ready designs
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 <span style="color:#00ff00">Network Traffic (Stats)</span>
 
-<!-- Replace USERNAME with your GitHub username to activate these cards -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Dawn-Fighter&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## 📂 Pinned Repositories
-
-- Enigma: ESP32 cybersecurity toolkit (Wi‑Fi/BLE/RFID)  
-- WPT: Web penetration testing tool  
-- Forge Vault / ForgeCrypt: File security and analysis CLI  
-- Research PoCs: Windows keylogger and credential extractor (defensive research focus)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dawn-Fighter&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="stats graph" />
+</div>
 
 ---
 
-## 📝 Certifications
+### 📂 <span style="color:#00ff00">Pinned Operations</span>
 
-- Google Cybersecurity Certificate  
-- Penetration Tester Certification
-
----
-
-## 📫 Contact
-
-- Email: chethasdileep@icloud.com 
-- LinkedIn: https://www.linkedin.com/in/chethas-dileep-530722211  
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 📡 **Enigma** | **ESP32 Cybersecurity Toolkit.** All-in-one suite for Wi-Fi monitoring, BLE spamming research, and RFID analysis. | `C++` `ESP32` |
+| 🕷️ **WPT** | **Web Penetration Testing Tool.** Automates Recon, DNS discovery, WAF detection, and SSL analysis. | `Python` `Requests` |
+| 🔐 **Forge Vault** | **File Security CLI.** Advanced encryption/decryption workflows and file metadata analysis. | `Python` `Crypto` |
+| 🦠 **Research PoCs** | **Defensive Research.** Keyloggers and credential extractors built strictly for understanding attack vectors. | `Python` `WinAPI` |
 
 ---
 
-## ⚠️ Disclaimer
+### 🎓 <span style="color:#00ff00">Credentials</span>
 
-All security tools and PoCs are for educational and defensive purposes only. Use responsibly and only on systems with explicit authorization.
+* **Google Cybersecurity Certificate** 🛡️
+* **Penetration Tester Certification** ⚔️
+* **BCA (In Progress)** | Yenepoya University (2023–2026)
+* **Higher Secondary (CS Major)** | 91%
+
+---
+
+<div align="center">
+  
+  ### ⚠️ Disclaimer
+  > *All security tools and PoCs in my repositories are for **educational and defensive purposes only**. I advocate for responsible disclosure and testing only on systems where you have explicit authorization.*
+
+</div>
