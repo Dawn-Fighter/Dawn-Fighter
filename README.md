@@ -66,19 +66,19 @@ I am an entry-level **Penetration Tester** and **Cybersecurity Developer** with 
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Dawn-Fighter&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+### 🏆 <span style="color:#00ff00">Achievements & Analytics</span>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dawn-Fighter&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+  </a>
   
+  <br/>
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
 </div>
-
----
+</div>
 
 ### 🎓 <span style="color:#00ff00">Credentials</span>
 
