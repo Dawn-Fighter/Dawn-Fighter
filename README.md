@@ -43,17 +43,7 @@
 
 <div align="center">
 
-<p align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  "I EXPLORE ATTACK SURFACES ETHICALLY TO BUILD STRONGER DEFENSES"   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</p>
+> ### *"I EXPLORE ATTACK SURFACES ETHICALLY TO BUILD STRONGER DEFENSES"*
 
 </div>
 
@@ -65,12 +55,10 @@ I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who t
 
 ### ⚡ CURRENT OPERATIONS
 
-```yaml
-🔭 Active_Project: "Advanced Windows API Manipulation & Input Interception"
-🧩 Research_Focus: ["Malware Development", "Web Security", "Automation"]
-🎯 Methodology: "Ethical-First | CLI-First | Modular Design"
-🔥 Status: "Always Learning | Always Breaking | Always Building"
-```
+**🔭 Active Project:** Advanced Windows API Manipulation & Input Interception  
+**🧩 Research Focus:** Malware Development · Web Security · Automation  
+**🎯 Methodology:** Ethical-First | CLI-First | Modular Design  
+**🔥 Status:** Always Learning · Always Breaking · Always Building
 
 <br clear="right"/>
 
@@ -116,18 +104,13 @@ I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who t
 <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode,vim&theme=dark&perline=7" alt="Systems" />
 
 ### 📚 PYTHON ARSENAL 📚
-<div align="center">
-```python
 
-offensive_libs = {
-    "Network": ["scapy", "requests", "socket", "paramiko"],
-    "Web": ["beautifulsoup4", "selenium", "scrapy"],
-    "System": ["pynput", "pywin32", "ctypes", "psutil"],
-    "Crypto": ["cryptography", "hashlib", "pycrypto"],
-    "Automation": ["subprocess", "threading", "multiprocessing"]
-}
+**🌐 Network:** scapy · requests · socket · paramiko  
+**🕸️ Web:** beautifulsoup4 · selenium · scrapy  
+**💻 System:** pynput · pywin32 · ctypes · psutil  
+**🔐 Crypto:** cryptography · hashlib · pycrypto  
+**⚙️ Automation:** subprocess · threading · multiprocessing
 
-``
 </div>
 
 <div align="center">
@@ -181,24 +164,12 @@ offensive_libs = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials"> CREDENTIALS & CERTIFICATIONS <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials">
 
-<p align="center">
-  
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                    VERIFIED CREDENTIALS                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║      🛡️  Google Cybersecurity Certificate                    ║
-║                                                               ║
-║      ⚔️  Penetration Tester Certification                    ║
-║                                                               ║
-║      🎓  BCA (Bachelor of Computer Applications)             ║
-║          Yenepoya University | 2023–2026 | In Progress       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 🛡️ Google Cybersecurity Certificate
 
-</p>
+### ⚔️ Penetration Tester Certification
+
+### 🎓 BCA (Bachelor of Computer Applications)
+**Yenepoya University** | 2023–2026 | *In Progress*
 
 <br>
 
@@ -219,16 +190,13 @@ offensive_libs = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect">
 
-```ascii
-╔═════════════════════════════════════════════════════════════════╗
-║  OPEN FOR:                                                      ║
-║  ✅ Security Research Collaborations                           ║
-║  ✅ CTF Team Invitations                                       ║
-║  ✅ Bug Bounty Partnerships                                    ║
-║  ✅ Open Source Security Projects                              ║
-║  ✅ Freelance Penetration Testing                              ║
-╚═════════════════════════════════════════════════════════════════╝
-```
+### 🤝 OPEN FOR:
+
+✅ Security Research Collaborations  
+✅ CTF Team Invitations  
+✅ Bug Bounty Partnerships  
+✅ Open Source Security Projects  
+✅ Freelance Penetration Testing
 
 <br>
 
@@ -266,31 +234,26 @@ offensive_libs = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Warning">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                         RESPONSIBLE DISCLOSURE POLICY                    ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  All security tools, exploits, and PoCs (including Keyloggers,          ║
-║  Credential Extractors, and Network Sniffers) in my repositories        ║
-║  are developed strictly for:                                             ║
-║                                                                          ║
-║  ✅ Educational purposes                                                 ║
-║  ✅ Authorized security research                                         ║
-║  ✅ Defensive security testing                                           ║
-║  ✅ Ethical penetration testing with explicit permission                 ║
-║                                                                          ║
-║  ⛔ UNAUTHORIZED ACCESS TO SYSTEMS IS ILLEGAL ⛔                         ║
-║                                                                          ║
-║  I advocate for responsible disclosure and testing ONLY on systems       ║
-║  where you have explicit written authorization.                          ║
-║                                                                          ║
-║  By using any code from this repository, you agree to use it            ║
-║  ethically and legally. The author assumes NO responsibility for        ║
-║  misuse or damage caused by these tools.                                 ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+---
+
+**RESPONSIBLE DISCLOSURE POLICY**
+
+All security tools, exploits, and PoCs (including Keyloggers, Credential Extractors, and Network Sniffers) in my repositories are developed strictly for:
+
+✅ **Educational purposes**  
+✅ **Authorized security research**  
+✅ **Defensive security testing**  
+✅ **Ethical penetration testing with explicit permission**
+
+---
+
+⛔ **UNAUTHORIZED ACCESS TO SYSTEMS IS ILLEGAL** ⛔
+
+I advocate for responsible disclosure and testing **ONLY** on systems where you have explicit written authorization.
+
+By using any code from this repository, you agree to use it ethically and legally. The author assumes **NO** responsibility for misuse or damage caused by these tools.
+
+---
 
 <br>
 
