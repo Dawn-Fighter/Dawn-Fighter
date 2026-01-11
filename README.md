@@ -110,8 +110,9 @@ I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who t
 <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode,vim&theme=dark&perline=7" alt="Systems" />
 
 ### 📚 PYTHON ARSENAL 📚
-
+<div align="center">
 ```python
+
 offensive_libs = {
     "Network": ["scapy", "requests", "socket", "paramiko"],
     "Web": ["beautifulsoup4", "selenium", "scrapy"],
@@ -119,8 +120,8 @@ offensive_libs = {
     "Crypto": ["cryptography", "hashlib", "pycrypto"],
     "Automation": ["subprocess", "threading", "multiprocessing"]
 }
-```
 
+```
 </div>
 
 <div align="center">
