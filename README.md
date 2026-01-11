@@ -127,7 +127,7 @@ offensive_libs = {
     "Automation": ["subprocess", "threading", "multiprocessing"]
 }
 
-```
+``
 </div>
 
 <div align="center">
