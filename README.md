@@ -85,19 +85,19 @@ I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who t
 
 ### 🔐 SECURITY TOOLKIT 🔐
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/WiFi_Security-00979D?style=for-the-badge&logo=wifi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -134,9 +134,9 @@ offensive_libs = {
 
 <div align="center">
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       
 ### 🦠 WinAPI Keylogger (PoC)
       
@@ -176,7 +176,7 @@ offensive_libs = {
 **Status:** `🟢 OPERATIONAL`
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       
 ### 🕷️ WPT (Web Penetration Tool)
 
@@ -242,12 +242,12 @@ offensive_libs = {
 
 ### 📊 GITHUB STATISTICS 📊
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Dawn-Fighter&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn-Fighter&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=ff0080&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" alt="GitHub Streak" />
     </td>
   </tr>
@@ -255,22 +255,13 @@ offensive_libs = {
 
 <br>
 
-### 💻 LANGUAGE DISTRIBUTION & ACTIVITY 💻
+### 💻 MOST USED LANGUAGES 💻
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn-Fighter&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&area_color=00ff41" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=10&hide=jupyter%20notebook,html&card_width=445" alt="Top Languages" />
 
-<br>
+<br><br>
 
-### ⚡ CONTRIBUTION HEATMAP ⚡
+### ⚡ CONTRIBUTION GRAPH ⚡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn-Fighter&custom_title=Dawn%20Fighter%27s%20Contribution%20Graph&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
