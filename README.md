@@ -178,10 +178,14 @@ offensive_libs = {
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    VERIFIED CREDENTIALS                       ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  🛡️  Google Cybersecurity Certificate                        ║
-║  ⚔️  Penetration Tester Certification                        ║
-║  🎓  BCA (Bachelor of Computer Applications)                 ║
-║      Yenepoya University | 2023–2026 | In Progress           ║
+║                                                               ║
+║      🛡️  Google Cybersecurity Certificate                    ║
+║                                                               ║
+║      ⚔️  Penetration Tester Certification                    ║
+║                                                               ║
+║      🎓  BCA (Bachelor of Computer Applications)             ║
+║          Yenepoya University | 2023–2026 | In Progress       ║
+║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
