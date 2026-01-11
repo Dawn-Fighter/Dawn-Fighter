@@ -130,104 +130,6 @@ offensive_libs = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" alt="Projects"> PINNED OPERATIONS <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" alt="Projects">
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      
-### 🦠 WinAPI Keylogger (PoC)
-      
-```ascii
-┌─[THREAT LEVEL: RESEARCH]
-│
-├─ Advanced Endpoint Research Tool
-├─ Windows Hook Interception
-├─ Low-Level OS Manipulation
-└─ Credential Extraction PoC
-```
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white)
-![pynput](https://img.shields.io/badge/pynput-000000?style=flat-square)
-
-**Status:** `🔴 ACTIVE RESEARCH`
-
----
-
-### 📡 Enigma
-
-```ascii
-┌─[NETWORK RECONNAISSANCE]
-│
-├─ Wi-Fi Monitoring Suite
-├─ Protocol Analysis Engine
-├─ ESP32 Integration
-└─ Real-time Traffic Capture
-```
-
-**Tech Stack:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-
-**Status:** `🟢 OPERATIONAL`
-
-    </td>
-    <td width="50%" valign="top" align="center">
-      
-### 🕷️ WPT (Web Penetration Tool)
-
-```ascii
-┌─[WEB ATTACK SURFACE]
-│
-├─ Automated Reconnaissance
-├─ DNS Discovery & Enumeration
-├─ WAF Detection Engine
-└─ SSL/TLS Analysis
-```
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6600?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-1679A7?style=flat-square)
-
-**Status:** `🟡 MAINTENANCE`
-
----
-
-### 🔐 Forge Vault
-
-```ascii
-┌─[CRYPTOGRAPHIC OPS]
-│
-├─ Advanced File Encryption
-├─ Multi-Algorithm Support
-├─ Secure Decryption Workflows
-└─ Metadata Analysis CLI
-```
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Crypto](https://img.shields.io/badge/Crypto-721412?style=flat-square&logo=letsencrypt&logoColor=white)
-
-**Status:** `🟢 OPERATIONAL`
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider">
-</div>
-
-
-<br>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="Stats"> NETWORK TRAFFIC & ANALYTICS <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="Stats">
 
 <div align="center">
@@ -255,12 +157,6 @@ offensive_libs = {
 
 <br>
 
-### 💻 MOST USED LANGUAGES 💻
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Fighter&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=10&hide=jupyter%20notebook,html&card_width=445" alt="Top Languages" />
-
-<br><br>
-
 ### ⚡ CONTRIBUTION GRAPH ⚡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawn-Fighter&custom_title=Dawn%20Fighter%27s%20Contribution%20Graph&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
@@ -274,9 +170,9 @@ offensive_libs = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials"> CREDENTIALS & CERTIFICATIONS <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials">
-
 <div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials"> CREDENTIALS & CERTIFICATIONS <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -304,9 +200,9 @@ offensive_libs = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect">
-
 <div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" alt="Connect">
 
 ```ascii
 ╔═════════════════════════════════════════════════════════════════╗
