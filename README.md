@@ -124,14 +124,6 @@ I am an **entry-level Penetration Tester** and **Cybersecurity Developer** who t
 
 <div align="center">
 
-### 🏆 ACHIEVEMENT UNLOCKED 🏆
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dawn-Fighter&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
-</a>
-
-<br><br>
-
 ### 📊 GITHUB STATISTICS 📊
 
 <table align="center">
