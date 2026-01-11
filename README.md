@@ -43,11 +43,17 @@
 
 <div align="center">
 
+<p align="center">
+
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
 ║  "I EXPLORE ATTACK SURFACES ETHICALLY TO BUILD STRONGER DEFENSES"   ║
+║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</p>
 
 </div>
 
