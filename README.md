@@ -174,6 +174,8 @@ offensive_libs = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials"> CREDENTIALS & CERTIFICATIONS <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="Credentials">
 
+<p align="center">
+  
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    VERIFIED CREDENTIALS                       ║
@@ -188,6 +190,8 @@ offensive_libs = {
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
+
+</p>
 
 <br>
 
